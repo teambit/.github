@@ -6,9 +6,9 @@
 
 We build the [open-source tools](https://github.com/teambit/bit) that help people build **anything in components** and the [cloud platform](https://bit.dev/) that helps teams scale to many projects and teams with components.  
 
-We [build everything in components](https://bit.dev/teambit), open-source and cloud alike. You can find all our components and see how we build on our cloud.  
+We build everything in components, open-source and cloud alike. You can find all our components and see how we build on our cloud.  
 
-This is our official GitHub organization. Why do we need GitHub if we build everything in components on the components cloud? Well, because we know how important it is to build together with the community. While the community on the component cloud grows fast, GitHub is where developers are and will continue to be. Just like Twitter did not replace Blogs which did not replace books, as there are more components so will grow the number of larger compositions you can make into whole projects. And GitHub is a really great place to host and show your Lego projects!
+This is our official GitHub organization. We aim to open-source as much we can, and thanks to the highly extendible nature of Bit, make it easy for every developer to contribute or make Bit their own. You can see how we build Bit and Bit Cloud in components on our official [Bit Cloud organization](https://bit.dev/teambit).
 
 ### Join the component revolution
 
