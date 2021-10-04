@@ -12,10 +12,15 @@ This is our official GitHub organization. We aim to open-source as much we can, 
 
 ### Join the component revolution
 
+- [Docs](https://harmony-docs.bit.dev/)
+- [React Demos hosted on Bit.dev](https://bit.dev/learn-bit-react/~scopes)
+- [Angular Demos hosted on Bit.dev](https://bit.dev/learn-bit-angular/~scopes)
+
 Come and follow or chat with us on one of the following:
 
 - [Twitter](https://twitter.com/bitdev_)
 - [Slack](https://join.slack.com/t/bit-dev-community/shared_invite/zt-o2tim18y-UzwOCFdTafmFKEqm2tXE4w)
+- [GitHub Discussions](https://github.com/teambit/bit/discussions) 
 - [YouTube](https://www.youtube.com/channel/UCuNkM3qIO79Q3-VrkcDiXfw)
 - [Podcasts](https://harmony-docs.bit.dev/resources/podcasts)
 
