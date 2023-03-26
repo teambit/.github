@@ -20,7 +20,8 @@ Come and follow or chat with us on one of the following:
 
 - [Twitter](https://twitter.com/bitdev_)
 - [Slack](https://join.slack.com/t/bit-dev-community/shared_invite/zt-1ccd6k1nn-wIKOlqNNUEypmmO9bUujUg)
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/bit.dev) 
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/bit.dev)
+- [GitHub Discussions](https://github.com/teambit/bit/discussions)
 - [YouTube](https://www.youtube.com/c/Bitdev/videos)
 
 ## Want to join us?
