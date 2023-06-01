@@ -1,6 +1,6 @@
 # 👋 Welcome to the component revolution
 
-![An illustration showing components and their composition graph.](https://storage.googleapis.com/bit-docs/Banner%20image%20Twitter%201500x500%20Dark%20(5).png)
+![An illustration showing components and their composition graph.](https://static.bit.dev/Community/images/cdd.jpg)
 
 ## We are **Team Bit**
 
