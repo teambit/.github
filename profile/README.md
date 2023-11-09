@@ -13,7 +13,7 @@
 
 ## We are **Team Bit**
 
-We build the [open-source toolchain](https://github.com/teambit/bit) that help people build **anything in components** and the [cloud platform](https://bit.dev/) that helps teams scale to many projects and teams with components.  
+We build the [open-source toolchain](https://github.com/teambit/bit) that help people build **in components** and the [cloud platform](https://bit.dev/) that helps teams scale to many projects and teams with components.  
 
 We build everything in components, frontend and backend alike. You can find all our components and see how we build on our cloud.  
 
