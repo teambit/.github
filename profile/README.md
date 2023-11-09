@@ -1,6 +1,15 @@
-# 👋 Welcome to the component revolution
+# 👋 Welcome to Bit
 
-![An illustration showing components and their composition graph.](https://static.bit.dev/Community/images/cdd.jpg)
+<p align="center">
+  <img src="http://static.bit.dev/bit-docs/readme-bit-logo.png"/>
+</p>
+
+<p align="center">
+  <a href="https://bit.dev/">Website</a> |
+  <a href="https://bit.dev/docs/">Docs</a> |
+  <a href="https://bit.cloud/bitdev">Community</a> |
+  <a href="https://bit.cloud/">Bit Cloud</a>
+</p>
 
 ## We are **Team Bit**
 
