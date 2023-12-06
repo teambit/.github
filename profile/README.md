@@ -13,13 +13,13 @@
 
 ## We are **Team Bit**
 
-We build the [open-source toolchain](https://github.com/teambit/bit) that help people build **in components** and the [cloud platform](https://bit.dev/) that helps teams scale to many projects and teams with components.  
+We build the [open-source toolchain](https://github.com/teambit/bit) that help people build **composable software** and the [cloud platform for building composable software](https://bit.dev/) that helps teams build better software at increasing pace.
 
 We build everything in components, frontend and backend alike. You can find all our components and see how we build on our cloud.  
 
 This is our official GitHub organization. We aim to open-source as much we can, and thanks to the highly extendible nature of Bit, make it easy for every developer to contribute or make Bit their own. You can see how we build Bit and Bit Cloud in components on our official [Bit Cloud organization](https://bit.cloud/teambit).
 
-### Join the component revolution
+### Start building components
 
 - [Docs](https://bit.dev/docs)
 - [Using React with Bit](https://bit.dev/docs/react-intro)
