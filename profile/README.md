@@ -13,7 +13,7 @@
 
 ## We are **Team Bit**
 
-We build the [open source](https://bit.dev) that help people build **composable software** and the [cloud platform](https://bit.dev/) that helps teams and enterprises build at increasing pace.
+We build the [open source](https://bit.dev) that help people build **composable software** and the [cloud platform](https://bit.dev/) that helps teams and enterprises build at increasing pace ensuring dev experience, safety and consistency.
 
 We build everything in components, frontend and backend alike. You can find all our components and see how we build on our cloud.  
 
